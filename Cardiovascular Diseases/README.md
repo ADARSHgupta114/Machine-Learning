@@ -1,4 +1,4 @@
-Based on this visualization, we will an analysis:
+Based on this visualization, we will an analyz:
 - **Age** : We see how the risk of suffering cardiovascular diseases [CVD](https://www.nhsinform.scot/illnesses-and-conditions/heart-and-blood-vessels/conditions/cardiovascular-disease#:~:text=Cardiovascular%20disease%20(CVD)%20is%20a,artery%20hardening%20and%20narrowing%20(atherosclerosis))  increases with age.
 - **Sex** : Apparently the men have a major risk than women of suffering CVDs.
 - **ChestPainType** : The majority cases of CVDs present absence of chest pain or the usual anginal equivalents. Followed by the cases that present chest pain non-anginal.
